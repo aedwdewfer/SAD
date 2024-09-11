@@ -40,10 +40,7 @@ body {
 
 @media screen and (max-width: 850px) {
   /* header */
-  .header_menu {
-    display: flex;
-    flex-direction: column;
-  }
+
   /* header.... */
   /* home */
 
@@ -53,9 +50,14 @@ body {
   }
   /* home...... */
 }
-
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 620px) {
   /* home */
-
+  .all_items {
+    display: none;
+  }
+  .snus {
+    display: none;
+  }
   /* home.... */
 }
+
