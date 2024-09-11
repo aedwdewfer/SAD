@@ -11,7 +11,7 @@ const emit = defineEmits(['openDrawer'])
     <router-link to="/"
       ><div class="flex items-center gap-4">
         <img src="/logo.jpg" alt="Logo" class="w-32" />
-        <div>
+        <div class="snus">
           <h2 class="text-xl font-bold uppercase">SNUS и точка</h2>
           <p class="text-slate-400">Вы сами все поняли.</p>
         </div>
