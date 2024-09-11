@@ -124,7 +124,7 @@ watch(filters, fetchItems)
 
 <template>
   <div class="flex justify-between items-center">
-    <h2 class="text-3xl font-bold mb-8">Все товары</h2>
+    <h2 class="all_items text-3xl font-bold mb-8">Все товары</h2>
 
     <div class="home_filters flex gap-4">
       <select @change="onChangeSelect" class="py-2 px-3 border rounded-md outline-none">
