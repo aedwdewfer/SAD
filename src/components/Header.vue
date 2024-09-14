@@ -8,7 +8,7 @@ const emit = defineEmits(['openDrawer'])
 
 <template>
   <header class="flex justify-between border-b border-slate-200 px-10 py-1">
-    <a href="https://snusmsk.online/"
+    <a href="https://t.me/snusmskvape/"
       ><div class="flex items-center gap-4">
         <img src="/logo.jpg" alt="Logo" class="w-32" />
         <div class="snus">
